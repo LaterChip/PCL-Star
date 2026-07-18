@@ -1,1 +1,17 @@
 
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files.
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+*.exe
+*.dll
+*.pdb
+*.nupkg
+packages/
+publish/
