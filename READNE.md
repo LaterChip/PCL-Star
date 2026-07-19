@@ -1,42 +1,33 @@
 # PCLStar 启动器
 
-<!-- ============ 新增：徽章区域 ============ -->
+<!-- 徽章区域（Stars、Release、Build、Issues、PR、Downloads） -->
 <p align="center">
-  <!-- Stars -->
   <a href="https://github.com/PCLStar/PCLStar/stargazers">
     <img src="https://img.shields.io/github/stars/PCLStar/PCLStar?style=flat-square&color=yellow" alt="Stars">
   </a>
-  <!-- Release -->
   <a href="https://github.com/PCLStar/PCLStar/releases">
     <img src="https://img.shields.io/github/v/release/PCLStar/PCLStar?style=flat-square&color=blue" alt="Release">
   </a>
-  <!-- Build Status -->
   <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square" alt="Build Passing">
-  <!-- Issues -->
   <a href="https://github.com/PCLStar/PCLStar/issues">
     <img src="https://img.shields.io/github/issues/PCLStar/PCLStar?style=flat-square&color=red" alt="Issues">
   </a>
-  <!-- Pull Requests -->
   <a href="https://github.com/PCLStar/PCLStar/pulls">
     <img src="https://img.shields.io/github/issues-pr/PCLStar/PCLStar?style=flat-square&color=blueviolet" alt="Pull Requests">
   </a>
-  <!-- Downloads -->
   <a href="https://github.com/PCLStar/PCLStar/releases">
     <img src="https://img.shields.io/github/downloads/PCLStar/PCLStar/total?style=flat-square&color=orange" alt="Downloads">
   </a>
 </p>
 
-<!-- ============ 新增：荣誉标签 ============ -->
+<!-- 荣誉标签 + B站动态（使用 for-the-badge 风格） -->
 <p align="center">
-  <strong>
-    <span style="background: #f5f5f5; padding: 4px 12px; border-radius: 12px;">🏆 #1 Repository Of The Week</span>
-    &nbsp;&nbsp;
-    <span style="background: #f5f5f5; padding: 4px 12px; border-radius: 12px;">⭐ #2 Repository Of The Day</span>
-  </strong>
-</p>
-
-<!-- ============ 新增：B站动态链接 ============ -->
-<p align="center">
+  <a href="https://github.com/PCLStar/PCLStar">
+    <img src="https://img.shields.io/badge/🏆%20%231%20Repository%20Of%20The%20Week-gold?style=for-the-badge&logo=github" alt="#1 Repository Of The Week">
+  </a>
+  <a href="https://github.com/PCLStar/PCLStar">
+    <img src="https://img.shields.io/badge/⭐%20%232%20Repository%20Of%20The%20Day-silver?style=for-the-badge&logo=github" alt="#2 Repository Of The Day">
+  </a>
   <a href="https://space.bilibili.com/your-bilibili-id">
     <img src="https://img.shields.io/badge/动态-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
   </a>
