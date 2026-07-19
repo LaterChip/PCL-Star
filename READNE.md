@@ -1,31 +1,31 @@
-# PCLStar 启动器
+# PCL-Star 启动器
 
 <!-- 徽章区域（Stars、Release、Build、Issues、PR、Downloads） -->
 <p align="center">
-  <a href="https://github.com/PCLStar/PCLStar/stargazers">
-    <img src="https://img.shields.io/github/stars/PCLStar/PCLStar?style=flat-square&color=yellow" alt="Stars">
+  <a href="https://github.com/LaterChip/PCL-Star/stargazers">
+    <img src="https://img.shields.io/github/stars/LaterChip/PCL-Star?style=flat-square&color=yellow" alt="Stars">
   </a>
-  <a href="https://github.com/PCLStar/PCLStar/releases">
-    <img src="https://img.shields.io/github/v/release/PCLStar/PCLStar?style=flat-square&color=blue" alt="Release">
+  <a href="https://github.com/LaterChip/PCL-Star/releases">
+    <img src="https://img.shields.io/github/v/release/LaterChip/PCL-Star?style=flat-square&color=blue" alt="Release">
   </a>
   <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square" alt="Build Passing">
-  <a href="https://github.com/PCLStar/PCLStar/issues">
-    <img src="https://img.shields.io/github/issues/PCLStar/PCLStar?style=flat-square&color=red" alt="Issues">
+  <a href="https://github.com/LaterChip/PCL-Star/issues">
+    <img src="https://img.shields.io/github/issues/LaterChip/PCL-Star?style=flat-square&color=red" alt="Issues">
   </a>
-  <a href="https://github.com/PCLStar/PCLStar/pulls">
-    <img src="https://img.shields.io/github/issues-pr/PCLStar/PCLStar?style=flat-square&color=blueviolet" alt="Pull Requests">
+  <a href="https://github.com/LaterChip/PCL-Star/pulls">
+    <img src="https://img.shields.io/github/issues-pr/LaterChip/PCL-Star?style=flat-square&color=blueviolet" alt="Pull Requests">
   </a>
-  <a href="https://github.com/PCLStar/PCLStar/releases">
-    <img src="https://img.shields.io/github/downloads/PCLStar/PCLStar/total?style=flat-square&color=orange" alt="Downloads">
+  <a href="https://github.com/LaterChip/PCL-Star/releases">
+    <img src="https://img.shields.io/github/downloads/LaterChip/PCL-Star/total?style=flat-square&color=orange" alt="Downloads">
   </a>
 </p>
 
 <!-- 荣誉标签 + B站动态（使用 for-the-badge 风格） -->
 <p align="center">
-  <a href="https://github.com/PCLStar/PCLStar">
+  <a href="https://github.com/LaterChip/PCL-Star">
     <img src="https://img.shields.io/badge/🏆%20%231%20Repository%20Of%20The%20Week-gold?style=for-the-badge&logo=github" alt="#1 Repository Of The Week">
   </a>
-  <a href="https://github.com/PCLStar">
+  <a href="https://github.com/LaterChip/PCL-Star">
     <img src="https://img.shields.io/badge/⭐%20%232%20Repository%20Of%20The%20Day-silver?style=for-the-badge&logo=github" alt="#2 Repository Of The Day">
   </a>
   <a href="https://space.bilibili.com/3546952564214479">
@@ -37,9 +37,9 @@
 
 [![.NET](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/PCLStar/PCLStar?style=social)](https://github.com/PCLStar/PCLStar)
+[![Stars](https://img.shields.io/github/stars/LaterChip/PCL-Star?style=social)](https://github.com/LaterChip/PCL-Star)
 
-**PCLStar** 是一款基于 .NET 8 的现代化 Minecraft 启动器，支持多认证、多版本、模组管理以及炫酷的星空主题界面。
+**PCL-Star** 是一款基于 .NET 8 的现代化 Minecraft 启动器，支持多认证、多版本、模组管理以及炫酷的星空主题界面。
 
 ---
 
@@ -83,5 +83,5 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/PCLStar/PCLStar.git
-   cd PCLStar
+   git clone https://github.com/LaterChip/PCL-Star.git
+   cd PCL-Star
