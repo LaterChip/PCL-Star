@@ -25,10 +25,10 @@
   <a href="https://github.com/PCLStar/PCLStar">
     <img src="https://img.shields.io/badge/🏆%20%231%20Repository%20Of%20The%20Week-gold?style=for-the-badge&logo=github" alt="#1 Repository Of The Week">
   </a>
-  <a href="https://github.com/PCLStar/PCLStar">
+  <a href="https://github.com/PCLStar">
     <img src="https://img.shields.io/badge/⭐%20%232%20Repository%20Of%20The%20Day-silver?style=for-the-badge&logo=github" alt="#2 Repository Of The Day">
   </a>
-  <a href="https://space.bilibili.com/your-bilibili-id">
+  <a href="https://space.bilibili.com/3546952564214479">
     <img src="https://img.shields.io/badge/动态-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
   </a>
 </p>
