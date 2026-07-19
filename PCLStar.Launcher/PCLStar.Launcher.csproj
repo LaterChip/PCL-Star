@@ -1,1 +1,14 @@
-
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>..\icon.ico</ApplicationIcon>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PCLStar.Core\PCLStar.Core.csproj" />
+    <ProjectReference Include="..\PCLStar.UI\PCLStar.UI.csproj" />
+  </ItemGroup>
+</Project>
