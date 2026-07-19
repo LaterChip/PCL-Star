@@ -1,1 +1,9 @@
-
+<UserControl x:Class="PCLStar.UI.Controls.StarSideBar"
+             xmlns="...">
+    <StackPanel Background="#FF2A2A40" Width="200">
+        <Button Content="启动" Tag="Home" />
+        <Button Content="下载" Tag="Download" />
+        <Button Content="模组" Tag="Mod" />
+        <Button Content="设置" Tag="Setting" />
+    </StackPanel>
+</UserControl>
