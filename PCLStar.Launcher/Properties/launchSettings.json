@@ -1,1 +1,8 @@
-
+{
+  "profiles": {
+    "PCLStar.Launcher": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
